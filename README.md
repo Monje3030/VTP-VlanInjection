@@ -1,3 +1,14 @@
+⚠️ Disclaimer
+This project was developed for educational and academic purposes only as part of a Cybersecurity degree. The purpose of this repository is to demonstrate network vulnerabilities and defense mechanisms in a controlled laboratory environment.
+
+Usage: I am not responsible for any misuse or damage caused by this software.
+Ethics: Unauthorized access to networks or systems is illegal and unethical. Always perform these tests on equipment you own or have explicit permission to test.
+⚠️ Descargo de Responsabilidad / Disclaimer
+Este proyecto ha sido desarrollado únicamente con fines educativos y académicos como parte de mis estudios en Ciberseguridad. El propósito de este repositorio es demostrar vulnerabilidades de red y mecanismos de defensa en un entorno de laboratorio controlado.
+
+Uso: No me hago responsable del mal uso o de los daños causados por este software.
+Ética: El acceso no autorizado a redes o sistemas es ilegal y poco ético. Realiza siempre estas pruebas en equipos de tu propiedad o en aquellos donde tengas permiso explícito para realizar tests.
+
 # 🛡️ Auditoría de Red: VTP VLAN Creation Attack
 
 Este repositorio contiene un script de auditoría desarrollado en **Python** utilizando **Scapy**. El objetivo es demostrar las debilidades del protocolo **VTP (VLAN Trunking Protocol)** v1/v2 y cómo un atacante puede manipular la segmentación de red en una infraestructura conmutada.
