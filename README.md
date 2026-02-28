@@ -1,9 +1,12 @@
 ⚠️ Disclaimer
+
 This project was developed for educational and academic purposes only as part of a Cybersecurity degree. The purpose of this repository is to demonstrate network vulnerabilities and defense mechanisms in a controlled laboratory environment.
 
 Usage: I am not responsible for any misuse or damage caused by this software.
 Ethics: Unauthorized access to networks or systems is illegal and unethical. Always perform these tests on equipment you own or have explicit permission to test.
+
 ⚠️ Descargo de Responsabilidad / Disclaimer
+
 Este proyecto ha sido desarrollado únicamente con fines educativos y académicos como parte de mis estudios en Ciberseguridad. El propósito de este repositorio es demostrar vulnerabilidades de red y mecanismos de defensa en un entorno de laboratorio controlado.
 
 Uso: No me hago responsable del mal uso o de los daños causados por este software.
